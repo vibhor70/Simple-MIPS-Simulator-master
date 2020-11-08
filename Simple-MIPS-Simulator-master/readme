@@ -1,0 +1,13 @@
+arguments for running
+
+--without arguments
+menu based simulator program will running
+
+--one argument(file name)
+will run the program on all type of architecture with no steps printed.
+
+--with two or three argment
+
+first argument is file name 
+second argument is 0 for single cycle , 1 for Mips simulator, 3 for r4000 Mips simulator
+third argument is to print each and every step to a file steps.txt
